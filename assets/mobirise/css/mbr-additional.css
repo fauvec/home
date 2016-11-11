@@ -422,3 +422,22 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 13px;
 }
+
+
+#slider-3 H2 {
+  color: #000000;
+  font-size: 14px;
+  text-align: left;
+}
+#slider-3 SPAN {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#slider-3 P {
+  text-align: left;
+  color: #000000;
+  font-size: 17px;
+  font-family: 'Lora', serif;
+}
