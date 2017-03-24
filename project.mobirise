@@ -23,7 +23,9 @@
         "isScrollToTopButton": false,
         "isRtl": false
       }
-    }
+    },
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
