@@ -62,13 +62,14 @@
               "text-align": "center",
               "color": "#ffffff",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "13px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Arimo', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "color": "#ffffff",
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "21px"
             }
           },
@@ -87,13 +88,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">&nbsp;Fauve Charlier</span>&nbsp;",
-          "text": "<span style=\"font-style: normal;\">Een studente Grafisch Ontwerp aan de Sint Lucas Hogeschool in Gent.</span>",
+          "title": "&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Fauve Charlier<br>Een studente Grafisch Ontwerp aan de Sint Lucas Hogeschool in Gent.</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -184,7 +185,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -413,7 +414,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -508,7 +509,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -725,7 +726,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -922,7 +923,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",

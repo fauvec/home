@@ -432,11 +432,12 @@ h6,
   text-align: center;
   color: #ffffff;
   font-family: 'Lora', serif;
+  font-size: 13px;
 }
 #header1-0 .mbr-section-title SPAN {
   font-family: 'Arimo', sans-serif;
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-size: 21px;
 }
 #menu-0 .hide-buttons .nav-btn {
