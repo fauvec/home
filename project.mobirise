@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 0,
     "versionPublish": "3.12.1",
@@ -67,7 +67,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "25px"
             }
           },
