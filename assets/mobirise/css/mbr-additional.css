@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -433,10 +434,10 @@ h6,
   font-family: 'Lora', serif;
 }
 #header1-0 .mbr-section-title SPAN {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arimo', sans-serif;
   color: #ffffff;
   text-align: center;
-  font-size: 25px;
+  font-size: 21px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
