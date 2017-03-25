@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page5.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
     "name": "My Site",
     "theme": {
@@ -866,51 +866,63 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Start</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "23px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#faaf40"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "12px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-1",
+          "_name": "header2",
+          "_anchor": "header2-6",
           "_params": {
+            "imageSize": "35",
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0",
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
+            "inverse": false,
+            "showTitle": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br>",
-          "text": "<span style=\"font-style: normal;\">fauvecharlier@gmail.com</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "fauvecharlier@gmail.com",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#cccccc",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         }
       ]
     },

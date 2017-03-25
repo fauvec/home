@@ -775,19 +775,9 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header5-1 .mbr-section-title {
-  color: #000;
-}
-#header5-1 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-1 .mbr-section-title SPAN {
-  font-size: 23px;
+#header2-6 .mbr-section-text {
+  color: #cccccc;
   font-family: 'Lora', serif;
-  color: #faaf40;
-}
-#header5-1 .mbr-section-lead SPAN {
-  font-size: 12px;
 }
 
 #menu-2 .hide-buttons .nav-btn {
