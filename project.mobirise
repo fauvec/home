@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 6,
     "versionPublish": "3.12.1",
@@ -1019,7 +1019,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
