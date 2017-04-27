@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "name": "My Site",
     "theme": {
@@ -297,7 +297,7 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "color": "#cccccc",
+              "color": "#000000",
               "text-align": "center",
               "font-size": "20px",
               "font-family": "'Lora', serif",
@@ -305,15 +305,15 @@
             },
             "P": {
               "font-size": "11px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center"
             }
           },
           "_anchor": "features3-8",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -326,12 +326,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
+            "ShowTexts": false,
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -345,9 +345,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Platenhoes",
+          "title1": "<a href=\"page4.html\" class=\"text-black\">Platenhoes</a>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Een ontwerp voor het album Untitled Music for Geography van Fransesco Lopez.",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -361,21 +361,25 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Bild Hamburg",
+          "title2": "<a href=\"page3.html\" class=\"text-black\">Bild Hamburg</a>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Een kijkje op een specifiek thema tijdens onze projectweek in Hamburg. In mijn publicatie koos ik voor een speelse stad waarin de Homo Ludens zich thuis voelt. Auto's maken plaats voor spel en natuur.",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-0122-copy.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
+          "title3": "<a href=\"page7.html\" class=\"text-black\">Herbarium Grafica</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -520,16 +524,6 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0782-2000x1333-15-2000x1333-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0782-2000x1333-15.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -560,26 +554,6 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0780-2000x2921-98-2000x2921-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0780-2000x2921-98.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0787-2000x1333-51-2000x1333-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0787-2000x1333-51.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -587,17 +561,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0772-2000x2957-81-2000x2957-12.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0772-2000x2957-81.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0778-2000x1333-63-2000x1333-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0778-2000x1333-63.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1192,6 +1156,247 @@
             "showBullets": true
           },
           "_anchor": "gallery2-7",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Start</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Grafisch werk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px; color: rgb(193, 193, 193);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-15-800x1122.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-15.58.47.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1133.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.00.49.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1116.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.00.31.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1130.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.01.54.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1117.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.02.15.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.00.14.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1127.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.04.10.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1119.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.01.16.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1128.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.01.03.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1124.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.02.40.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1118.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.05.06.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-16.03.55.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-a",
           "articleLayout": false,
           "allItem": "All"
         }
